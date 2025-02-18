@@ -210,6 +210,8 @@ body {
   .btn-primary, .btn-secondary {
     padding: 0.5rem 1rem;
     font-size: 0.9rem;
+    flex-direction: colimn;
+    align-items: center;
   }
 
   .social-icons {
