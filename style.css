@@ -206,11 +206,14 @@ body {
   .hero-subtitle {
     font-size: 1.25rem;
   }
+  .hero-buttons {
+    flex-direction: column;
+      align-items: center;
+  }
 
   .btn-primary, .btn-secondary {
     padding: 0.5rem 1rem;
     font-size: 0.9rem;
-    flex-direction: colimn;
     align-items: center;
   }
 
